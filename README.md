@@ -53,7 +53,24 @@ python P-Gen.py -l -n -y
 ```bash 
 python P-Gen.py -p
 ```
+## Extraction des attributs 'name' à partir de la page login.
+Dans cette étape on doit connaître les noms des inputs dans le formulaire donc allez à inspecter les éléments da la page http://localhost/ensab/sql_injection/login.php
+![Texte alternatif](url_de_l'image)
 
+## Lançement D'attaque
+Après la création de votre dictionnaire, vous pouvez lancer votre attaque.
+
+    - Mais tout d'abord, installez les dépendances nécessaires :
+
+        ```bash
+        pip install requests
+        ```
+
+    - Ensuite, vous pouvez lancer votre attaque :
+
+        ```bash
+        py .\p_gen_attack.py
+        ```
 
 ## Public Cible
 
