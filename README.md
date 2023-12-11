@@ -1,4 +1,4 @@
-# P-Gen-user
+# P-Gen
 brute force attack using social engineer
 # P-Gen - Générateur de Liste de Mots de Passe Personnalisée
 
