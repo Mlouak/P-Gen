@@ -60,7 +60,7 @@ Dans cette étape on doit connaître les noms des inputs dans le formulaire donc
 ## Lançement D'attaque
 Après la création de votre dictionnaire, vous pouvez lancer votre attaque.
 
-    - Mais tout d'abord, installez les dépendances nécessaires :
+    Mais tout d'abord, installez les dépendances nécessaires :
 
         ```bash
         pip install requests
