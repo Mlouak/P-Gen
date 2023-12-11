@@ -27,7 +27,7 @@ P-Gen est un outil basé sur Python pour générer des listes de mots de passe e
 - Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/pannagkumaar/P-Gen.git
+   git clone https://github.com/Mlouak/P-Gen.git
    cd P-Gen
     ```
 - Exécutez le script avec les options désirées :    
